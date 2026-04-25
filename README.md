@@ -1,5 +1,5 @@
-# Click Game
+# FirstGame 
+## 名前 : Click Game
+## 制作時間 : 30分
 
-## 30min
-
-## use mouse to get score
+## ゲームルール : use mouse to get score

@@ -1,9 +1,9 @@
 const cacheName = "Jeffrey_Lee-2026_6_34_GameProjects-0.1.0";
 const contentToCache = [
-    "Build/2026_WebGLTest.loader.js",
-    "Build/2026_WebGLTest.framework.js",
-    "Build/2026_WebGLTest.data",
-    "Build/2026_WebGLTest.wasm",
+    "Build/FirstGame.loader.js",
+    "Build/FirstGame.framework.js",
+    "Build/FirstGame.data",
+    "Build/FirstGame.wasm",
     "TemplateData/style.css"
 
 ];
