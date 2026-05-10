@@ -17,4 +17,4 @@ https://0jeffrey017.github.io/2026_WebGLTest/2_Kamizumo
 ## 制作時間 : 50時間
 
 ## ゲームルール : マウスで
-https://0jeffrey017.github.io/2026_WebGLTest/3_DefanceGame
+https://0jeffrey017.github.io/2026_WebGLTest/3_DefenceGame
