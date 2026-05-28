@@ -1,9 +1,9 @@
-const cacheName = "Jeffrey_lee-20260509_Kamizumo-1.0";
+const cacheName = "DefaultCompany-20260509_Kamizumo-1.0";
 const contentToCache = [
-    "Build/20260510_kamizumo.loader.js",
-    "Build/20260510_kamizumo.framework.js",
-    "Build/20260510_kamizumo.data",
-    "Build/20260510_kamizumo.wasm",
+    "Build/2_Kamizumo.loader.js",
+    "Build/2_Kamizumo.framework.js",
+    "Build/2_Kamizumo.data",
+    "Build/2_Kamizumo.wasm",
     "TemplateData/style.css"
 
 ];
